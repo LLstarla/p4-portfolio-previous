@@ -16,20 +16,6 @@ p {
   width: 90%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .lightbox {
   /** Default lightbox to hidden */
   display: none;
@@ -61,24 +47,6 @@ p {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .title {
   text-align: center;
   font-family: 'Oswald';
@@ -99,7 +67,7 @@ p {
 }
 
 .frame {
-  position: relative;
+  position: absolute;
   display: block;
   width: 90%;
   height: 250px;
