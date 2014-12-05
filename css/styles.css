@@ -132,6 +132,50 @@ p {
   background-image: url("../img/coolcastle.jpg");
 }
 
+.pic2 {
+  background-image: url("../img/birds.jpg");
+}
+
+.pic3 {
+  background-image: url("../img/et2.jpg");
+}
+
+.pic4 {
+  background-image: url("../img/etglasses.jpg");
+}
+
+.pic5 {
+  background-image: url("../img/eth.jpg");
+}
+
+.pic6 {
+  background-image: url("../img/house.jpg");
+}
+
+.pic7 {
+  background-image: url("../img/LLoldSF.jpg");
+}
+
+.pic8 {
+  background-image: url("../img/parisg.jpg");
+}
+
+.pic9 {
+  background-image: url("../img/rr.jpg");
+}
+
+.pic10 {
+  background-image: url("../img/stop.jpg");
+}
+
+.pic11 {
+  background-image: url("../img/tire.jpg");
+}
+
+.pic12 {
+  background-image: url("../img/tree.jpg");
+}
+
 
 
 @media screen and (min-width: 45em) {
