@@ -20,6 +20,7 @@ p {
   /** Default lightbox to hidden */
   display: none;
 
+
   /** Position and style */
   position: fixed;
   z-index: 999;
